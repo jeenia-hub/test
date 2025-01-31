@@ -1,4 +1,4 @@
 # test
 This is my first repository.
 <br>
-author - jeenia
+author - jeenia Chopra
